@@ -1,0 +1,11 @@
+﻿  main.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+     Creating library bin\testProject_debug.lib and object bin\testProject_debug.exp
+  testProject.vcxproj -> C:\DEV\of_v0.11.2_vs2017_release\apps\myApps\testProject\bin\testProject_debug.exe
+  
+  	                   2	C:\DEV\of_v0.11.2_vs2017_release\libs\fmod\lib\vs\Win32\
+  	  *EXTRA File 		 6018560	C:\DEV\of_v0.11.2_vs2017_release\apps\myApps\testProject\bin\FreeImage.dll
+  
+  	                   1	C:\DEV\of_v0.11.2_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *EXTRA File 		 1544704	C:\DEV\of_v0.11.2_vs2017_release\apps\myApps\testProject\bin\fmod.dll
+  	  *EXTRA File 		 1733120	C:\DEV\of_v0.11.2_vs2017_release\apps\myApps\testProject\bin\fmodL.dll
